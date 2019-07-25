@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
     "express": "^4.16.4",
-    "sqlite3": "^4.0.8",
+    "node-opus": "^0.3.2",
     "simple-youtube-api": "^5.2.1",
-    "ytdl-core": "^0.29.3",
-    "node-opus": "^0.3.2"
+    "sqlite3": "^4.0.8",
+    "ytdl-core": "^0.29.3"
   },
   "engines": {
     "node": "10.x"
