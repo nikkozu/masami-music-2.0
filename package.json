@@ -1,0 +1,31 @@
+{
+  "name": "mvp-music",
+  "version": "1.0.1",
+  "description": "A usefull discord music bots",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "node-opus": "^0.3.2",
+    "simple-youtube-api": "^5.2.1",
+    "sqlite3": "^4.0.8",
+    "ytdl-core": "^0.29.3"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://github.com/lekatompessy/mvp-rex"
+  },
+  "author": "Sarekashi",
+  "license": "GPL-3.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
