@@ -1,2 +1,4 @@
 # mvp-rex
-usefull discord bots
+usefull discord music bots
+
+Join my [Discord Server](https://discord.gg/sXzu4FY)
