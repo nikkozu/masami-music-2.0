@@ -1,6 +1,6 @@
 {
-  "name": "mvp-music",
-  "version": "1.0.1",
+  "name": "masami-music",
+  "version": "2.0.0",
   "description": "A usefull discord music bots",
   "main": "app.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "node": "10.x"
   },
   "repository": {
-    "url": "https://github.com/lekatompessy/mvp-rex"
+    "url": "https://github.com/lekatompessy/masami-music-2.0"
   },
   "author": "Sarekashi",
   "license": "GPL-3.0",
