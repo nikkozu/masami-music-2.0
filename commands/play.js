@@ -83,7 +83,8 @@ exports.run = async (client, msg, args, color) => {
                 skippers: [],
                 songs: [],
                 volume: 100,
-                playing: true
+                playing: true,
+                loop: false
             }
             client.queue.set(msg.guild.id, queueConstruct);
             queueConstruct.songs.push(song);
